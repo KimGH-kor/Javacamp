@@ -1,4 +1,4 @@
-package ch11Test;
+package ch11Test2;
 
 public class Student {
 	String name;
@@ -10,13 +10,13 @@ public class Student {
 	}
 	
 	public void takeBus(Bus bus) {
-		bus.take(1000);
-		this.money -= 1000;
+		bus.take(1800);//돈 더할거임
+		this.money -= 1800;
 	}
 	
 	public void takeSubway(Subway subway) {
-		subway.take(1200);
-		this.money -= 1200; 
+		subway.take(1250);
+		this.money -=1250;
 	}
 	
 	public void takeTexi(Texi texi) {
@@ -24,9 +24,9 @@ public class Student {
 		this.money -= 2800;
 	}
 	
-	public void showStudentInto() {
-		System.out.println(name + "의 남은 금액은"+ money + "입니다.");
-	}
 	
+	public void showStudentInfo() {
+		System.out.println(name + "의 남은 돈은 "+money+"입니다.");
+	}
 	
 }
