@@ -18,6 +18,7 @@ public class CustomerTest {
 		customerList.add(customerP);
 		customerList.add(customerK);
 		
+
 		for(Customer customer : customerList) {
 			System.out.println(customer.showCustmorInfo()); 
 		}
