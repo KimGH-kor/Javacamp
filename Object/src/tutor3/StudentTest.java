@@ -1,4 +1,4 @@
-package totor2;
+package tutor3;
 
 public class StudentTest {
 	public static void main(String[] args) {

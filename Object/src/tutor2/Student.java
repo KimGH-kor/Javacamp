@@ -1,4 +1,4 @@
-package totor2;
+package tutor2;
 
 import java.util.ArrayList;
 
