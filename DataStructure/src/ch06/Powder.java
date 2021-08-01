@@ -1,0 +1,12 @@
+package ch06;
+
+public class Powder extends Material{
+	public String toString() {
+		return "재료는 파우더입니다";
+	}
+
+	@Override
+	public void doPrinting() {
+		
+	}
+}
