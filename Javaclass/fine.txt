@@ -1,0 +1,10 @@
+8월 07, 2021 8:45:56 오후 ch12.MyLogger log
+FINE: log test
+8월 07, 2021 8:45:56 오후 ch12.MyLogger log
+CONFIG: log test
+8월 07, 2021 8:45:56 오후 ch12.MyLogger log
+INFO: log test
+8월 07, 2021 8:45:56 오후 ch12.MyLogger log
+WARNING: log test
+8월 07, 2021 8:45:56 오후 ch12.MyLogger log
+SEVERE: log test
